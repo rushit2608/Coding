@@ -1,5 +1,5 @@
-#include<iostream>
-#include<vector>
+#include<bits/stdc++.h>
+
 const int MOD=1000000007;
     vector<int>prime;
     vector<int> p;
